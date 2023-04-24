@@ -2,7 +2,7 @@
 Aditya Hriday Sahu, Gurbaaz Singh Gill, Ojas Kanth
 
 ## Note:
-Add all the relevant papers and demos to this repository. I'll be adding a latex link (if it is possible on the free version.)
+Add all the relevant papers and demos to this README. I'll be adding a latex link (if it is possible on the free version.)
 
 ## Installation
 
