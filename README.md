@@ -16,3 +16,10 @@ Installation of SunPy: https://docs.sunpy.org/en/stable/installation.html
 
 ## Demo
 Tour/Demo: https://docs.sunpy.org/en/stable/guide/tour.html
+
+## Relevant Reference Papers/Material
+1. https://www.researchgate.net/publication/258564226_SunPy_Python_for_Solar_Physics_Data_Analysis
+2. https://www.researchgate.net/publication/280575764_SunPy-Python_for_solar_physics
+3. https://www.researchgate.net/publication/259853008_SunPy_Python_for_Solar_Physicists
+
+<img src="./Resources/SunPy_SPD2012_Poster.png"/>
