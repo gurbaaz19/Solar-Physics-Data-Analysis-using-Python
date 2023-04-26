@@ -122,4 +122,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-!/directory/
+/directory/efz20110920.010015
+/directory/efz20110920.010613
+/directory/efz20110920.011353
+/directory/efz20110920.011947
